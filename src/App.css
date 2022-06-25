@@ -1,0 +1,56 @@
+.center{
+    margin-top: 130px;
+    
+    
+}
+.top{
+    background-color: aqua;
+}
+.outmain{
+    text-align: center;
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    color:teal;
+}
+h1.head{
+    text-align: center;
+    color:teal
+}
+
+.newuser{
+    color:darkseagreen;
+    
+}
+
+.newuser.button{
+    background-color: aqua;
+}
+.butn{
+    margin-top: 37%;
+    margin-left: 10px;
+}
+body{
+    margin: 0;
+
+}
+.Rheader{
+    text-align: center;
+    text-decoration: dashed;
+    text-shadow: 10px;
+    margin-top: 8.5%;
+    
+}
+.custom-field::after {
+    content: attr(aria-label);
+  }
+.registration{
+    background-color:cornsilk;
+    justify-content: center;
+    width: 40%;
+    margin-left: 30%;
+    margin-bottom: 10%;
+    margin-top: 10px;
+    border-radius: 8px;
+    
+}
